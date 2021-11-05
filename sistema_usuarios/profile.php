@@ -60,7 +60,7 @@
     <main role="main" class="user-profile">
         <div class="parallax-container profile">
             <div class="parallax">
-                <img src="imagenes/hero_fondo.jpg">
+                <img src="imagenes/hero.jpg">
             </div>
             <div class="content-parallx center">
                 <figure>
@@ -72,13 +72,67 @@
             </div>
         </div><!-- End Parallax -->
         <div class="container">
-            <article>
+            <article class="center">
                 <h3>Sobre mi</h3>
                 <figcaption>
                     Lorem ipsum, dolor sit amet consectetur adipisicing elit. Accusantium culpa eum deserunt itaque et eveniet, similique vero nemo eos, sapiente odio fugiat debitis esse quas cumque? Dolor, nulla expedita eaque nobis pariatur consectetur excepturi sapiente totam debitis voluptas rem numquam unde quibusdam deserunt quo, possimus recusandae commodi laudantium dicta cumque? Asperiores, aliquam libero cumque modi, voluptatem, officia laudantium voluptate provident ipsum repellendus ex alias quaerat est ut harum adipisci totam quisquam culpa amet qui atque corporis. Neque qui repellendus labore ad quisquam vel nulla, repellat adipisci sunt rerum tenetur voluptate alias possimus? Earum repudiandae deserunt nemo dicta eius dolorum dignissimos!
                 </figcaption>
             </article>
-        </div>
+
+            <div class="articles-post-user-profile">
+                <div class="row">
+                    <div class="col s12 m4 l3">
+                        <div class="card">
+                            <div class="card-image">
+                                <img src="imagenes/hero_fondo.jpg">
+                                <span class="card-title">Card Title
+                                    <div class="card-action">
+                                        <a href="#" class="white-text">Nuevo Articulo</a>
+                                    </div>
+                                </span>
+                            </div>
+                            <div class="card-content">
+                                <p>I am a very simple card. I am good at containing small bits of information.
+                                I am convenient because I require little markup to use effectively.</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col s12 m4 l3">
+                        <div class="card">
+                            <div class="card-image">
+                                <img src="imagenes/hero_fondo.jpg">
+                                <span class="card-title">Card Title
+                                    <div class="card-action">
+                                        <a href="#" class="white-text">Nuevo Articulo</a>
+                                    </div>
+                                </span>
+                            </div>
+                            <div class="card-content">
+                                <p>I am a very simple card. I am good at containing small bits of information.
+                                I am convenient because I require little markup to use effectively.</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col s12 m4 l3">
+                        <div class="card">
+                            <div class="card-image">
+                                <img src="imagenes/hero_fondo.jpg">
+                                <span class="card-title">Card Title
+                                    <div class="card-action">
+                                        <a href="#" class="white-text">Nuevo Articulo</a>
+                                    </div>
+                                </span>
+                            </div>
+                            <div class="card-content">
+                                <p>I am a very simple card. I am good at containing small bits of information.
+                                I am convenient because I require little markup to use effectively.</p>
+                            </div>
+                        </div>
+                    </div>|
+                </div>
+            </div>
+
+        </div><!-- End Container -->
     </main>
 
     <footer class = "black">
