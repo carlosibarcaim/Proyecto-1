@@ -162,6 +162,11 @@ main.user-profile article figcaption{
     font-size: 16px;
 }
 
+main.user-profile .articles-post-user-profile{
+    padding: 50px 0px;
+}
+
+
 /*===============
 FOOTER
 ===============*/
