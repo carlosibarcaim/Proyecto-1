@@ -128,7 +128,7 @@
                                 I am convenient because I require little markup to use effectively.</p>
                             </div>
                         </div>
-                    </div>|
+                    </div>
                 </div>
             </div>
 
